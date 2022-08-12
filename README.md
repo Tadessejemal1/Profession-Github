@@ -1,4 +1,5 @@
 # Hi there I'm Tadesse Jemal 👋
+GitHub: https://github.com/Tadessejemal1 LinkedIn: https://www.linkedin.com
 I'm a Front-End developer (JavaScript, css, sass, bootstrap, React).
 Thanks To [Microverse](https://microverse.org I got a lot of knowledge and skill on software development areas
 I really love always being learning. When I’m not Codding and trying new languages in different platform and with personal projects. I spend my free time reading books, waching movies and chill with my friends.
@@ -11,19 +12,3 @@ Partner
 - HTML, CSS, JavaScript
 - Git, GitHub,bootstrap
 
-
-## Author
-👤 **Tadesse Jemal**
-
--  > GitHub: https://github.com/Tadessejemal1 
-   > LinkedIn: https://www.linkedin.com
-
-## 🤝 Contributing
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- )
-This project is [MIT](./MIT.md) licensed.
