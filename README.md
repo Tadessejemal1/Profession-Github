@@ -1,5 +1,5 @@
 # Hi there I'm Tadesse Jemal 👋
-GitHub: https://github.com/Tadessejemal1 LinkedIn: https://www.linkedin.com
+https://github.com/Tadessejemal1 https://www.linkedin.com
 
 I'm a Front-End developer (JavaScript, css, sass, bootstrap, React).
 Thanks To [Microverse](https://microverse.org I got a lot of knowledge and skill on software development areas
